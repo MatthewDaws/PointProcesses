@@ -12,3 +12,4 @@ I notice that GitHub can now render `.ipynb` files natively, but for convenience
 Additional files:
 
 - `utils.py` Some simple plotting functions, off-loaded to avoid cluttering the notebooks too much.
+- [Kernel Density Estimation](https://nbviewer.jupyter.org/github/MatthewDaws/PointProcesses/blob/master/KDE.ipynb)
